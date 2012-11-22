@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>frequency_response.png</file>
+    <file>speaker.png</file>
+    <file>alpha.png</file>
+    <file>impulse.png</file>
+    <file>export_data.png</file>
+    <file>export_graph.png</file>
+    <file>filter.png</file>
+    <file>open.png</file>
+    <file>preferences.png</file>
+    <file>save.png</file>
+    <file>signal.png</file>
+    <file>start.png</file>
+    <file>export_data.png</file>
+    <file>export_graph.png</file>
+    <file>open.png</file>
+    <file>preferences.png</file>
+    <file>save.png</file>
+    <file>start.png</file>
+    <file>export_graph.png</file>
+    <file>save.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+#!/bin/bash
+# Script to build QT forms to python code.
+
+for file in $(find ./ -iname *.ui); do
+    pyuic4 $file -o ${file%ui}py
+done
